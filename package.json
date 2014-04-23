@@ -1,0 +1,34 @@
+{
+  "name": "keks",
+  "version": "0.0.2",
+  "description": "get, set and remove cookies clientside",
+  "main": "index.js",
+  "scripts": {
+    "browser": "a=$npm_package_name; browserify -r ./index:$a -s $a index.js -o browser.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennistimmermann/keks.git"
+  },
+  "keywords": [
+    "cookie",
+    "cookies",
+    "persistence"
+  ],
+  "author": {
+    "name": "Dennis Timmermann",
+    "email": "dennis@tmrmn.com",
+    "url": "http://tmrmn.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennistimmermann/keks/issues"
+  },
+  "homepage": "https://github.com/dennistimmermann/keks",
+  "devDependencies": {
+    "browserify": "^3.0.0"
+  }
+}

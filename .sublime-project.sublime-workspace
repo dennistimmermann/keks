@@ -1,0 +1,1090 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"slice  (function)"
+			],
+			[
+				"Str",
+				"Str2_kleinb"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"remove",
+				"removeBg"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"righ",
+				"right  (value)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"max",
+				"max-width:   (property)"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"set",
+				"set_nsobject"
+			],
+			[
+				"video",
+				"videoView"
+			],
+			[
+				"vid",
+				"videoView"
+			],
+			[
+				"lr",
+				"lr-server"
+			],
+			[
+				"En",
+				"Entity"
+			],
+			[
+				"Enti",
+				"entities"
+			],
+			[
+				"play",
+				"playerCount"
+			],
+			[
+				"pla",
+				"playerCount"
+			],
+			[
+				"shoo",
+				"shootDelay"
+			],
+			[
+				"tim",
+				"timeTillShoot"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"ch",
+				"checkCollision"
+			],
+			[
+				"tare",
+				"target_"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"y",
+				"yAngle_"
+			],
+			[
+				"yA",
+				"yAngle"
+			],
+			[
+				"x",
+				"xAngle_"
+			],
+			[
+				"whe",
+				"where_"
+			],
+			[
+				"frame",
+				"framerate	frameRate (set)"
+			],
+			[
+				"load",
+				"loadFont"
+			],
+			[
+				"hea",
+				"headline"
+			],
+			[
+				"rect",
+				"rectMode"
+			],
+			[
+				"rec",
+				"rectMode"
+			],
+			[
+				"switch",
+				"switched"
+			],
+			[
+				"fra",
+				"frames"
+			],
+			[
+				"getRo",
+				"getRow"
+			],
+			[
+				"beg",
+				"beginShape"
+			],
+			[
+				"stroke",
+				"stroke	stroke"
+			],
+			[
+				"getRow",
+				"getRowCount"
+			],
+			[
+				"get",
+				"getRowCount"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"cou",
+				"counter-reset"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"pdd",
+				"padding-top"
+			],
+			[
+				"count",
+				"counter-increment"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"min",
+				"min-width:   (property)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"github",
+				"github"
+			],
+			[
+				"t",
+				"tint"
+			],
+			[
+				"split",
+				"splitext  (function)"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"tm",
+				"temp_dir"
+			],
+			[
+				"err",
+				"error_line"
+			],
+			[
+				"draw",
+				"drawPolygon"
+			],
+			[
+				"cal",
+				"calculateAngle"
+			],
+			[
+				"i",
+				"indent_offset"
+			],
+			[
+				"inne",
+				"inner_margin"
+			],
+			[
+				"cont",
+				"content_margin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/dennis/Documents/Stepsoft/stepsoft-new/index.php",
+			"settings":
+			{
+				"buffer_size": 5890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Mailbag\n\n\nMuted\n\n\nStoryteller",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"col",
+				"Color picker"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"disba",
+				"Package Control: Disable Package"
+			],
+			[
+				"disb",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Python Markdown: Copy to Clipboard"
+			],
+			[
+				"mardow",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Copy to Clipboard"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Save-Only Linting"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"git d",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git ann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ctag",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"cta",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"ct",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"reb",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"buil",
+				"Build: Build"
+			]
+		],
+		"width": 399.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear()",
+			"clear",
+			"reload_settings(view)",
+			"sublimelinter()",
+			"sublimelinter",
+			"sublime.platform()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dennis/Repos/smileisi/index.htm",
+		"/Users/dennis/Documents/Stepsoft/stepsoft-new/js/script.min.js",
+		"/Users/dennis/Documents/Stepsoft/stepsoft-new-all/Gruntfile.js",
+		"/Users/dennis/Documents/Stepsoft/stepsoft-new/js/navbar.js",
+		"/Users/dennis/Documents/Stepsoft/stepsoft-new-all/templates/stepsoft-new/js/main.js",
+		"/Users/dennis/Documents/Stepsoft/stepsoft-new/js/script.js",
+		"/Users/dennis/Repos/scramblescore/index.js",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/User/Larapaste me.tmTheme",
+		"/Users/dennis/Documents/UnP/einleitung.md",
+		"/Users/dennis/Downloads/mead/README",
+		"/Users/dennis/Repos/smileisi/index.js",
+		"/Users/dennis/Documents/Stepsoft/icons/thenounproject-originals/noun_project_10892.svg",
+		"/Users/dennis/Repos/scramblescore/.sublime-project",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dennis/Repos/TernJS/tern.py",
+		"/Users/dennis/Repos/TernJS/TernJS.sublime-settings",
+		"/Users/dennis/Repos/TernJS/ternjs/semver.py",
+		"/Users/dennis/Repos/TernJS/ternjs/tern_plugin.py",
+		"/Users/dennis/Repos/TernJS/README.md",
+		"/Users/dennis/Repos/pushalot-node/pushalot-node.js",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/dennis/Repos/scramblescore/index.htm",
+		"/Users/dennis/Repos/scramblescore/.jshintrc",
+		"/Users/dennis/Repos/finn/.jshintrc",
+		"/Users/dennis/Repos/scramblescore/LICENSE",
+		"/Users/dennis/Repos/scramblescore/browser.js",
+		"/Users/dennis/Repos/scramblescore/test/test.js",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/dennis/Repos/block-ipsum/index.htm",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/dennis/Repos/private-feed/public/index.htm",
+		"/Users/dennis/Repos/private-feed/public/assets/css/style.css",
+		"/Users/dennis/Repos/private-feed/public/assets/js/script.js",
+		"/Users/dennis/Repos/private-feed/.bowerrc",
+		"/Volumes/EOS_DIGITAL/GdG_Zeichnen/README_Dennis_Timmermann.txt",
+		"/Users/dennis/Repos/portfolio/assets/images/git.svg",
+		"/Users/dennis/Repos/portfolio/assets/images/mail.svg",
+		"/Users/dennis/Repos/portfolio/work/karte.htm",
+		"/Users/dennis/Repos/portfolio/karte.htm",
+		"/Users/dennis/Repos/portfolio/visualisierung.htm",
+		"/Users/dennis/Repos/portfolio/makrotypografie.htm",
+		"/Users/dennis/Repos/portfolio/muster.htm",
+		"/Users/dennis/Repos/portfolio/linien.htm",
+		"/Users/dennis/Repos/portfolio/flaechen.htm",
+		"/Users/dennis/Repos/portfolio/list.html",
+		"/Users/dennis/Repos/portfolio/node_modules/gulp-util/lib/linefeed.js",
+		"/Users/dennis/Downloads/pyqtvlc/VLCMacVideo.py",
+		"/Users/dennis/Repos/qai/Qai.py",
+		"/Users/dennis/Repos/vlc-python/examples/qtvlc.py",
+		"/Users/dennis/Repos/vlc-python/examples/wxvlc.py",
+		"/Users/dennis/Repos/vlc-python/examples/vlc.py",
+		"/Users/dennis/Repos/tsee/index.htm",
+		"/Users/dennis/Documents/Stepsoft/stepsoft-new/templates/stepsoft-new/css/bootstrap.css",
+		"/Users/dennis/Repos/portfolio/src/jade/blueprint.jade",
+		"/Users/dennis/Repos/portfolio/index.htm",
+		"/Users/dennis/Repos/portfolio/src/js/s.js",
+		"/Users/dennis/Documents/Gestaltung/104_Permutation/processing/processing.pde",
+		"/Users/dennis/Repos/portfolio/gulpfile.js",
+		"/Users/dennis/Repos/portfolio/list.md",
+		"/Users/dennis/Repos/portfolio/tmp.md",
+		"/Users/dennis/Repos/portfolio/src/jade/template.jade",
+		"/Users/dennis/Repos/portfolio/src/stylus/style.styl",
+		"/Users/dennis/Repos/portfolio/src/articles/2014-01-07-testify.md",
+		"/Users/dennis/Repos/portfolio/portfolio.sublime-project",
+		"/Users/dennis/Repos/portfolio/dist/css/style.css",
+		"/Users/dennis/Repos/portfolio/src/html/template.html",
+		"/Users/dennis/Repos/portfolio/package.json",
+		"/Users/dennis/Repos/portfolio/irgendwas.hmtl",
+		"/Users/dennis/Repos/portfolio/.jshintrc",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/dennis/Documents/tmp/port/.DS_Store",
+		"/Users/dennis/Repos/portfolio/Gruntfile.js",
+		"/Users/dennis/Repos/sail-scheme/Sail.tmTheme",
+		"/Users/dennis/Repos/processing-experimental/README.md",
+		"/Users/dennis/Repos/processing-experimental/src/processing/mode/experimental/ExperimentalMode.java",
+		"/Users/dennis/Documents/Processing/invaders/Enemy.pde",
+		"/Users/dennis/Documents/Processing/invaders/Player.pde",
+		"/Users/dennis/Documents/Processing/invaders/Entity.pde",
+		"/Users/dennis/Documents/Processing/invaders/Bullet.pde",
+		"/Users/dennis/Documents/Processing/invaders/Game.pde",
+		"/Users/dennis/Documents/Processing/invaders/invaders.pde",
+		"/Users/dennis/Desktop/one.h",
+		"/Users/dennis/Desktop/one.m",
+		"/Users/dennis/Documents/Processing/main/Player.pde",
+		"/Users/dennis/Documents/Processing/main/Game.pde",
+		"/Users/dennis/Documents/Processing/main/Enemy.pde",
+		"/Users/dennis/Documents/Processing/main/Bullet.pde",
+		"/Users/dennis/Documents/Processing/main/Entity.pde",
+		"/Users/dennis/Documents/Processing/main/main.pde",
+		"/Users/dennis/Documents/Processing/main/Collision.pde",
+		"/Users/dennis/Documents/Processing/main/Entity.java",
+		"/Users/dennis/Documents/Gestaltung/110_textpand/text.md",
+		"/Users/dennis/Documents/Gestaltung/111_vis/processing/processing.pde",
+		"/Users/dennis/Documents/Gestaltung/110_textpand/web.html",
+		"/Users/dennis/Documents/tmp/untitled.mdown",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/dennis/Repos/watson-theme/README.md",
+		"/Users/dennis/Repos/watson-theme/Watson.sublime-theme",
+		"/Users/dennis/Documents/tmp/data.csv",
+		"/Users/dennis/Repos/processing/core/src/processing/data/FloatDict.java",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/User/SearchInProject.sublime-settings",
+		"/Users/dennis/Repos/processing/core/src/processing/data/IntList.java",
+		"/Users/dennis/Repos/sail-scheme/README.md",
+		"/Users/dennis/Repos/package_control_channel/repository/s.json",
+		"/Users/dennis/Repos/package_control_channel/repository/t.json",
+		"/Users/dennis/Repos/package_control_channel/repository/w.json",
+		"/Users/dennis/Repos/processing/core/src/processing/event/KeyEvent.java",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/SearchInProject/SearchInProject.sublime-settings",
+		"/Users/dennis/Repos/processing/core/src/processing/data/Sort.java",
+		"/Users/dennis/Documents/kdmeldung.md",
+		"/Users/dennis/Watson.sublime-settings",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/dennis/bin/output.log",
+		"/Users/dennis/bin/prolint",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter/modules/java.py",
+		"/Users/dennis/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter/modules/processing.py",
+		"/Users/dennis/Documents/Processing/game/Entity.pde",
+		"/Users/dennis/Documents/Processing/game/main.pde",
+		"/Users/dennis/Documents/Gestaltung/110_textpand/assets/style.css",
+		"/Users/dennis/Documents/Gestaltung/110_textpand/out.html",
+		"/Users/dennis/Repos/processing/core/src/processing/data/FloatList.java",
+		"/Users/dennis/Dropbox/Stepsoft/hash",
+		"/Users/dennis/Documents/Gestaltung/110_text/assets/zoom.pde",
+		"/Users/dennis/Documents/Gestaltung/110_text/assets/shadow.pde",
+		"/Users/dennis/Documents/Gestaltung/110_text/text.htm",
+		"/Users/dennis/Documents/Gestaltung/110_text/assets/style.css",
+		"/Users/dennis/Documents/Gestaltung/110_text/example.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar",
+			"enter",
+			"php",
+			"292929",
+			"wats",
+			"ynamik",
+			">\n",
+			"Blubb",
+			"262x262",
+			"270x270",
+			"250x250",
+			"296x296",
+			"videoview",
+			"rgb",
+			"rgba",
+			"rgba(0,104,166",
+			"rgba",
+			"006aa7",
+			"</blockquote>",
+			"<blockquote>",
+			"blockquote",
+			"type",
+			");\n",
+			"Object",
+			"rectmode",
+			"frames",
+			";",
+			" f",
+			";",
+			" ",
+			"keyarray",
+			"soda",
+			"inva",
+			"keyw",
+			"inde",
+			"draw",
+			"draw_",
+			"draw_in",
+			"draw ind",
+			"ff",
+			"type",
+			"string",
+			"functi",
+			"name",
+			"keywo",
+			"keyw",
+			"type",
+			"comme",
+			"code",
+			"show",
+			"settings",
+			"soda",
+			"folder",
+			"soda",
+			"quick pa",
+			"quickpan",
+			"soda",
+			"Theme - Recreate OSX/Soda Light",
+			"Soda Light",
+			"Soda Dark",
+			"fold-clos",
+			"Soda Dark",
+			"face",
+			"Soda Dark",
+			"Soda Light",
+			"face",
+			"librar",
+			"gutter",
+			"sidebar",
+			"230",
+			"status",
+			"    {\n        \"class\": \"panel_close_button\",\n        \"attributes\": [\"hover\"],\n        \"layer0.texture\": \"Theme - Recreate OSX/Soda Light/panel-close-hover.png\",\n        \"layer0.opacity\": 0.8\n    },\n    {\n        \"class\": \"panel_close_button\",\n        \"attributes\": [\"pressed\"],\n        \"layer0.texture\": \"Theme - Recreate OSX/Soda Light/panel-close-pressed.png\",\n        \"layer0.opacity\": 0.8\n    },",
+			"0",
+			"    // Panel close button",
+			"btn",
+			"btsn",
+			"btn",
+			"sidebar",
+			"tabset-back",
+			"tabset",
+			"scroll",
+			"sidebar",
+			"bottom",
+			"btn",
+			"sidebar",
+			"Theme - Soda",
+			"sidebar",
+			"scheme",
+			"kwri",
+			"d",
+			"popen",
+			"get_start",
+			"stdout",
+			"filename",
+			"tag",
+			"library",
+			"variable",
+			"function",
+			"BCD42A",
+			"number",
+			"storage ty",
+			"ital",
+			"java",
+			"00a8c6",
+			"git",
+			"theme",
+			"tint",
+			"tab-close",
+			"file-close",
+			"tab",
+			"file-closeclose",
+			"file-close",
+			"btn-grou",
+			"offset",
+			"selected",
+			"overlap",
+			"btn-group-left",
+			"GetLocList",
+			"_java_",
+			"'",
+			"”",
+			"“",
+			"‘"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"263x263",
+			"262x262",
+			"270x270",
+			"250x250",
+			"",
+			"p",
+			",",
+			"f",
+			",",
+			"",
+			"Theme - Watson/images",
+			"Theme Watson/images",
+			"images",
+			"Soda Light",
+			"Theme - Recreate OSX",
+			"_processing_",
+			"`",
+			"\"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/dennis/Documents/Stepsoft/stepsoft-new/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2129,
+								2129
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"syntax": "Packages/Markdown/MultiMarkdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 224.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 101.0
+	},
+	"project": ".sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"wat",
+				"Watson.sublime-theme"
+			],
+			[
+				"",
+				"Watson.sublime-theme"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 121.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

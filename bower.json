@@ -1,0 +1,26 @@
+{
+  "name": "keks",
+  "main": "browser.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dennistimmermann/keks",
+  "authors": [
+    "Dennis Timmermann <timmermann.dennis@googlemail.com>"
+  ],
+  "description": "get, set and remove cookies",
+  "keywords": [
+    "cookie",
+    "cookies",
+    "persistence"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.js",
+    "package.json",
+    "component.json"
+  ]
+}
