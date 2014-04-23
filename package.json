@@ -1,6 +1,6 @@
 {
   "name": "keks",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "get, set and remove cookies clientside",
   "main": "index.js",
   "scripts": {

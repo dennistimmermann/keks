@@ -1,7 +1,7 @@
 !function(e){if("object"==typeof exports)module.exports=e();else if("function"==typeof define&&define.amd)define(e);else{var f;"undefined"!=typeof window?f=window:"undefined"!=typeof global?f=global:"undefined"!=typeof self&&(f=self),f.keks=e()}}(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);throw new Error("Cannot find module '"+o+"'")}var f=n[o]={exports:{}};t[o][0].call(f.exports,function(e){var n=t[o][1][e];return s(n?n:e)},f,f.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({"Focm2+":[function(_dereq_,module,exports){
 "use strict";
 /**
- *  cookie - get, set and remove cookies
+ *  keks - get, set and remove cookies
  *  Copyright 2014 Dennis Timmermann <dennis@tmrmn.com> License MIT
  */
 
@@ -52,6 +52,7 @@ function parse() {
  * @param {String} name
  * @param {String|Number} value
  * @param {Object} [options]
+ * @api public
  */
 
 lib.set = function (name, value, options) {
@@ -97,14 +98,18 @@ lib.get = function (name) {
  * remove cookie
  *
  * @param {String} name
+ * @param {Object} [options]
  * @return {Boolean}
  * @api public
  */
 
-lib.remove = function (name) {
+lib.remove = function (name, options) {
 	if (this.get(name) === undefined) return false
 
-	this.set(name, '', {expires: -1})
+	options = options || {}
+	options.expire = -1;
+
+	this.set(name, '', options)
 	return !this.get(name)
 }
 

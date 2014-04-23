@@ -1,6 +1,6 @@
 "use strict";
 /**
- *  cookie - get, set and remove cookies
+ *  keks - get, set and remove cookies
  *  Copyright 2014 Dennis Timmermann <dennis@tmrmn.com> License MIT
  */
 
@@ -51,6 +51,7 @@ function parse() {
  * @param {String} name
  * @param {String|Number} value
  * @param {Object} [options]
+ * @api public
  */
 
 lib.set = function (name, value, options) {
@@ -96,14 +97,18 @@ lib.get = function (name) {
  * remove cookie
  *
  * @param {String} name
+ * @param {Object} [options]
  * @return {Boolean}
  * @api public
  */
 
-lib.remove = function (name) {
+lib.remove = function (name, options) {
 	if (this.get(name) === undefined) return false
 
-	this.set(name, '', {expires: -1})
+	options = options || {}
+	options.expire = -1;
+
+	this.set(name, '', options)
 	return !this.get(name)
 }
 
